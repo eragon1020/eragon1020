@@ -14,8 +14,8 @@ Soy **Desarrollador de Software Junior** y estudiante de 8° semestre de Ingenie
 ## 🕹️ Mis Enlaces de Contacto
 A continuación puedes ver mis redes profesionales y probar mis videojuegos:
 
-* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](AQUÍ_PEGA_EL_LINK_DE_TU_LINKEDIN)
-* 🎮 **Itch.io (Prototipos Jugables):** [Mis Juegos en Itch.io](AQUÍ_PEGA_EL_LINK_DE_TU_ITCHIO)
+* 💼 **LinkedIn:** [Bryam Andres Aragon Zabala](https://www.linkedin.com/in/bryam-andres-aragon-zabala-9427392b9/)
+* 🎮 **Itch.io (Prototipos Jugables):** [Mis Juegos en Itch.io]((https://eragon1020.itch.io/))
 * 📧 **Correo Electrónico:** brayan.aragon.zabala@gmail.com
 
 ---
