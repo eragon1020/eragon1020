@@ -1,16 +1,45 @@
-## Hi there 👋
+# ¡Hola! Soy Bryam Andrés Aragón Zabala 👋
 
-<!--
-**eragon1020/eragon1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador de Software Junior** y estudiante de 8° semestre de Ingeniería de Software. Me especializo en la creación de aplicaciones web, móviles y desarrollo de videojuegos con Unity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mí
+* 🎓 **Estudios:** Tecnólogo en Desarrollo de Software y actual estudiante de Ingeniería en UNINPAHU.
+* 🛠️ **Enfoque Actual:** Creación de mecánicas de juego en Unity (C#) y desarrollo Backend con arquitecturas MVC.
+* 🎯 **Objetivo:** Aportar valor inmediato en proyectos de software retadores y videojuegos independientes.
+
+---
+
+## 🕹️ Mis Enlaces de Contacto
+A continuación puedes ver mis redes profesionales y probar mis videojuegos:
+
+* 💼 **LinkedIn:** [Tu Nombre en LinkedIn](AQUÍ_PEGA_EL_LINK_DE_TU_LINKEDIN)
+* 🎮 **Itch.io (Prototipos Jugables):** [Mis Juegos en Itch.io](AQUÍ_PEGA_EL_LINK_DE_TU_ITCHIO)
+* 📧 **Correo Electrónico:** brayan.aragon.zabala@gmail.com
+
+---
+
+## 🛠️ Tecnologías y Habilidades
+
+### 💻 Programación y Backend
+`Java` | `JavaScript` | `Node.js` | `C# (Unity)` | `API REST` | `Arquitectura MVC`
+
+### 🗄️ Bases de Datos
+`MySQL` | `SQLite` | `MongoDB`
+
+### 🔧 Herramientas e Infraestructura IT
+`Soporte IT (Windows)` | `Metodologías Ágiles (SCRUM)` | `Git / GitHub` | `Microsoft 365`
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🎮 Challenge 2 - Feed the Animals (Modificado)
+* **Descripción:** Versión avanzada del prototipo de Unity para alimentar animales en entornos 3D.
+* **Mecánicas:** Movimiento vertical y horizontal, spawns laterales dinámicos con rotaciones automáticas, sistema de control de vidas/puntuación con `GameManager` y barras de interfaz (`Sliders`) en espacio de mundo.
+* **Tecnologías:** Unity 6 LTS, C#.
+
+### 🌐 Arquitectura de Conexión IoT con Backend MVC
+* **Descripción:** Diseño e implementación de un sistema backend estructurado para la gestión y almacenamiento de datos procedentes de sensores IoT en tiempo real.
+* **Tecnologías:** Node.js, API REST, MongoDB.
